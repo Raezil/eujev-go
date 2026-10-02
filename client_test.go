@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	eujev "github.com/Bevel/eujev-go"
+	eujev "github.com/Raezil/go-eujev"
 )
 
 // This fixture is the successful response example from the public OpenAPI schema.
