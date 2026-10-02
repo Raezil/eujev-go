@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	eujev "github.com/Raezil/eujev-go"
+	eujev "github.com/Bevel/eujev-go"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	eujev "github.com/Raezil/eujev-go"
+	eujev "github.com/Bevel/eujev-go"
 )
 
 func TestQuestionWireFormats(t *testing.T) {

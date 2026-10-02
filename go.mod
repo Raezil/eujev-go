@@ -1,3 +1,3 @@
-module github.com/Raezil/eujev-go
+module github.com/Bevel/eujev-go
 
 go 1.22
